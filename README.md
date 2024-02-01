@@ -43,6 +43,7 @@ A solução deve ser eficiente em termos de consumo de tráfego de rede, leveza 
 
 - Compartilhe o código em um repositório no GitHub.
 - Adicione um README explicando a configuração e execução do projeto.
+- Prazo de entrega: `considerar a data combinada com cada um`.
 
 **Boa sorte!** 🚀
 
